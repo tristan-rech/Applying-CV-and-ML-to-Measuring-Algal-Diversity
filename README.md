@@ -203,10 +203,10 @@ Results from a grouping function that looks for similar images using the SIFT al
 
 Created function to plot 20 images from each cluster when K=5, and did not determine anything anything super conclusive from the expirement.
 
-![Cluster 0](figures/Cluster0.png)
-![Cluster 1](figures/Cluster1.png)
-![Cluster 2](figures/Cluster2.png)
-![Cluster 4](figures/Cluster4.png)
+![Cluster 0](figures/cluster0.png)
+![Cluster 1](figures/cluster1.png)
+![Cluster 2](figures/cluster2.png)
+![Cluster 4](figures/cluster4.png)
 
 ## Conclusion
 In the course of this project, a significant effort was dedicated to preprocessing and analyzing algal cell images using FlowCam technology. While the project did not progress to the machine learning phase, the groundwork laid in image preprocessing and data analysis is substantial and forms a solid foundation for future model development. Below are key takeaways and reflections:
