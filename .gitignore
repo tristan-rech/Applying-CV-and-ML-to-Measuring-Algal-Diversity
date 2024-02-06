@@ -4,3 +4,5 @@ Manual_Classifications_IN2-A/
 
 # ignore .tif files "no images to repo"
 *.tif
+
+__pycache__/
