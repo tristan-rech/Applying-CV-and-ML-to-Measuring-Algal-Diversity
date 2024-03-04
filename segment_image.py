@@ -108,6 +108,6 @@ def segment_image(input_dir, output_dir, min_area=100):
         #     plt.show()
     return extracted_counts
 
-# input_directory = 'data\IN-2A' # hard coded to run through one folder of the images
-# output_directory = 'data\IN-All-Split\IN-2A' # output to new folder
-# extracted_counts = segment_image(input_directory, output_directory)
+i#nput_directory = 'data\ET22-05\ET-F\ET-F1 Final' # hard coded to run through one folder of the images
+#output_directory = 'data\ET22-05\ET-F\ET-F1 Final\split' # output to new folder
+#extracted_counts = segment_image(input_directory, output_directory)
