@@ -1,9 +1,11 @@
-# **Applying-Computer-Vision-to-Measuring-Algal-Diversity**
+# **Applying Computer Vision and Machine Learning to Measuring Algal Diversity**
 **Tristan Pedro** 
 
 ## Project Summary
 
-This project leverages FlowCam technology to automate the classification of algal cells in laboratory cultures, aiming to enhance the understanding of algal diversity. Utilizing both the high-resolution images and the detailed data provided by FlowCam, the project involves preprocessing these images to isolate individual cells and filter out empty or irrelevant data. A significant part of this preprocessing includes grouping images based on their features and selecting the most representative image for each grouping. This approach ensures the dataset is optimally prepared for the machine learning phase. The core objective is to develop a machine learning model that can accurately classify different algal species or groups, thereby streamlining the cell counting process and reducing manual labor. This approach not only promises to improve the efficiency and accuracy of algal analysis but also provides deeper insights into the diversity and characteristics of algae in various cultures.
+In collaboration with a Master's student specializing in Aquatic Resources from the [Department of Biology](https://www.bio.txst.edu/) at Texas State University (TXST), I received a pivotal dataset obtained through [FlowCam](https://www.fluidimaging.com/) technology. This dataset, crucial to their research on the ["Photobiological Process for Reverse Osmosis Brine Treatment and Minimization"](https://ikehata.wp.txstate.edu/research/232-2/), originates from the [Ikehata Lab](https://ikehata.wp.txstate.edu/research/) within the [Civil Engineering Department](https://www.engineering.txst.edu/programs/civil.html) at TXST. By integrating this meticulously collected data into my analysis, I aim to create an interdiscipliary approach to studying algal diversity.
+
+Leveraging this dataset, my role involves the application of advanced computer vision techniques to sift through, filter, and interpret the intricate patterns present within the algal cells. The objective is to develop a robust machine learning model that not only simplifies the process of cell counting but also enriches our understanding of algal diversity. This collaborative effort underscores our dedication to harnessing the potential of environmental science and technology, aiming for breakthroughs that enhance both efficiency and accuracy in algal cell classification.
 
 ## Guest Lecture Presentation
 
