@@ -1,4 +1,4 @@
-# **Classification and Analysis in Flow Imaging Microscopy**
+# **Applying-Computer-Vision-to-Measuring-Algal-Diversity**
 **Tristan Pedro** 
 
 ## Project Summary
