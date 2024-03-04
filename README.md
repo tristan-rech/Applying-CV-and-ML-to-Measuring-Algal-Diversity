@@ -7,6 +7,8 @@ In collaboration with a Master's student specializing in Aquatic Resources from 
 
 Leveraging this dataset, my role involves the application of advanced computer vision techniques to sift through, filter, and interpret the intricate patterns present within the algal cells. The objective is to develop a robust machine learning model that not only simplifies the process of cell counting but also enriches our understanding of algal diversity. This collaborative effort underscores our dedication to harnessing the potential of environmental science and technology, aiming for breakthroughs that enhance both efficiency and accuracy in algal cell classification.
 
+Work completed as part of the [DataLab](https://datalab12.github.io/) within the Computer Science Department at TXST.
+
 ## Guest Lecture Presentation
 
 This project was presented as a guest lecture in a PhD-level Computer Vision class ([CS 7323](https://cs.txstate.edu/academics/course_detail/CS/7323/)) at Texas State University. The lecture covered the methodologies, challenges, and insights gained from working on this project, aiming to provide an in-depth perspective on applying computer vision techniques to biological data analysis.
