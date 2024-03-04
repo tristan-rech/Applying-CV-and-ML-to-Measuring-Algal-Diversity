@@ -240,5 +240,3 @@ In the course of this project, a significant effort was dedicated to preprocessi
 - **Further Preprocessing Improvements:** Continued refinement of the preprocessing steps, including feature engineering and potentially more sophisticated image analysis techniques, will be essential.
 - **Data Augmentation:** Implementing data augmentation strategies to increase the robustness of the future models.
 - **In-depth Cluster Analysis:** A deeper exploration into the clusters identified through t-SNE and K-means, possibly by incorporating additional features or using different dimensionality reduction techniques.
-
-This project, while still in its early stages, has made significant strides in understanding and preparing algal cell image data for advanced analysis. The lessons learned and the methodologies developed will be invaluable in the subsequent phases involving machine learning model development and validation.
