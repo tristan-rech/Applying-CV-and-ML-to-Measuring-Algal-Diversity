@@ -5,6 +5,17 @@
 
 This project leverages FlowCam technology to automate the classification of algal cells in laboratory cultures, aiming to enhance the understanding of algal diversity. Utilizing both the high-resolution images and the detailed data provided by FlowCam, the project involves preprocessing these images to isolate individual cells and filter out empty or irrelevant data. A significant part of this preprocessing includes grouping images based on their features and selecting the most representative image for each grouping. This approach ensures the dataset is optimally prepared for the machine learning phase. The core objective is to develop a machine learning model that can accurately classify different algal species or groups, thereby streamlining the cell counting process and reducing manual labor. This approach not only promises to improve the efficiency and accuracy of algal analysis but also provides deeper insights into the diversity and characteristics of algae in various cultures.
 
+## Guest Lecture Presentation
+
+This project was presented as a guest lecture in a PhD-level Computer Vision class ([CS 7323](https://cs.txstate.edu/academics/course_detail/CS/7323/)) at Texas State University. The lecture covered the methodologies, challenges, and insights gained from working on this project, aiming to provide an in-depth perspective on applying computer vision techniques to biological data analysis.
+
+The presentation slides used during the lecture are available in this repository for further reference:
+
+- [Presentation Slides (PDF)](./Presentation-Slides-pdf.pdf)
+- [Presentation Slides (PPTM)](./Presentation-Slides-ppt.pptm)
+
+These materials offer a comprehensive overview of the project's scope, including the preprocessing steps, data analysis techniques, and future directions for machine learning model development.
+
 ## Problem Statement 
 
 ### Challenge in Aquatic Life Sciences
