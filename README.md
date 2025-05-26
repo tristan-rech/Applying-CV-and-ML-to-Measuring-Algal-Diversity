@@ -15,8 +15,8 @@ This project was presented as a guest lecture in a PhD-level Computer Vision cla
 
 The presentation slides used during the lecture are available in this repository for further reference:
 
-- [Presentation Slides (PDF)](./Presentation-Slides-pdf.pdf)
-- [Presentation Slides (PPTM)](./Presentation-Slides-ppt.pptm)
+- [Presentation Slides (PDF)](./presentation/Presentation-Slides-pdf.pdf)
+- [Presentation Slides (PPTM)](./presentation/Presentation-Slides-ppt.pptm)
 
 These materials offer a comprehensive overview of the project's scope, including the preprocessing steps, data analysis techniques, and future directions for machine learning model development.
 
